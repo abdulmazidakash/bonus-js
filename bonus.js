@@ -79,6 +79,6 @@ function largestNumber(numbers){
 	return larger;
 }
 
-var numbers = [23, 34, 45, 54, 75, 86, 97, 87]
+var numbers = [23, 34, 45, 54, 75, 86, 97, 87];
 var output = largestNumber(numbers);
 console.log('output', output);
