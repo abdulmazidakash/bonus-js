@@ -40,5 +40,5 @@ function factorialRecursive(num){
 	}
 }
 
-var result = factorialRecursive(5);
-console.log('result', result);
+var count = factorialRecursive(5);
+console.log('result', count);
